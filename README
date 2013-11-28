@@ -1,0 +1,21 @@
+
+    ----------------
+    WhileLang-ReadMe
+    ----------------
+
+
+this project is about programming a command-line interpreter for the 
+abstract programming language "While" as specified in the textbook 
+"Semantics with Applications" by Nielson&Nielson.
+
+It aims to implement a command-line-interpreter to work with Staments
+of While, returning correct error-messages, reading code from txt-Files
+and finally, translating While-code into Java-, C- and C++-Code.
+
+It is intended to accomplish the translation by converting the input into
+a syntax-tree. The Project-Language is Java.
+
+As the dear Reader might see, its rather a educational project, than a 
+professional one.
+
+
